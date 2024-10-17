@@ -1,9 +1,9 @@
-# HOW TO GET THE GOLDEN PAIR EXTRAORDINAIRE BADGE EASILY
+# ❤️HOW TO GET THE GOLDEN PAIR EXTRAORDINAIRE BADGE EASILY❓
 
 How to get the Golden Pair Extraordinaire badge easily?
 ![Pair-Extraordinaire](image.png)
 
-## Step 1: Install GitHub CLI
+## Step 1️⃣: Install GitHub CLI
 
 To get started, you need to install the GitHub CLI. Follow the instructions for your operating system:
 
@@ -25,7 +25,7 @@ Use the package manager for your distribution. For example, on Ubuntu:
 sudo apt install gh
 ```
 
-## Step 2: Authenticate with GitHub CLI
+## Step 2️⃣: Authenticate with GitHub CLI
 
 After installing, you need to authenticate with your GitHub account. You can do this using either a web-based login or a personal access token.
 
@@ -49,7 +49,7 @@ gh auth login --with-token
 
 Paste your token when prompted.
 
-## Step 3: Define Co-authors' Names and Emails
+## Step 3️⃣: Define Co-authors' Names and Emails
 
 Create a script file (e.g., `create_prs.sh`) and define your co-authors' names and emails at the top of the script:
 
@@ -67,7 +67,7 @@ COAUTHOR_3_NAME="Alice Johnson"
 COAUTHOR_3_EMAIL="alice.johnson@example.com"
 ```
 
-## Step 4: Create and Merge Pull Requests
+## Step 4️⃣: Create and Merge Pull Requests
 
 Add the following loop to create and merge pull requests 10 times:
 
@@ -107,7 +107,7 @@ EOF
 done
 ```
 
-## Step 5: Run the Script
+## Step 5️⃣: Run the Script
 
 Make your script executable and run it:
 
