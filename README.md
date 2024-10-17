@@ -114,9 +114,9 @@ chmod +x create_prs.sh
 
 This will create and merge 10 pull requests from the `dev` branch to the `main` branch, with the specified co-authors.
 So you can get the Golden Pair Extraordinaire badge easily by changing the value of i to 48 at once on the above script.
-Is it easy? 😊
-I think so.
 
-```
+# Is it easy? 😊
 
-```
+# I think so. 🤣
+
+# Thank you for reading. 🤗
