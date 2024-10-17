@@ -1,6 +1,6 @@
-# Pair-Extraordinaire
+# HOW TO GET THE GOLDEN PAIR EXTRAORDINAIRE BADGE EASILY
 
-How to get the Golden Pair Extraordinaire badge?
+How to get the Golden Pair Extraordinaire badge easily?
 ![Pair-Extraordinaire](image.png)
 
 ## Step 1: Install GitHub CLI
