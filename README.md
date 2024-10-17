@@ -51,7 +51,10 @@ Paste your token when prompted.
 
 ## Step 3️⃣ & 4️⃣: Define Co-authors' Names and Emails, Create and Merge Pull Requests
 
-Create a script file (e.g., `create_prs.sh`) and define your co-authors' names and emails at the top of the script. (make sure this repository is public or you have to invite the co-authors to the repository before running the script.)
+Create a script file (e.g., `create_prs.sh`) and define your co-authors' names and emails at the top of the script.
+
+# (❗❗❗ Make sure this repository is public or you have to invite the co-authors to the repository before running the script.)
+
 Then, add the following loop to create and merge pull requests 10 times:
 
 ```bash
