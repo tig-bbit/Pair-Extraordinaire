@@ -109,7 +109,7 @@ done
 
 ## Step 5️⃣: Run the Script
 
-Make your script executable and run it:
+Make your script executable and run it on the github bash:
 
 ```bash
 chmod +x create_prs.sh
