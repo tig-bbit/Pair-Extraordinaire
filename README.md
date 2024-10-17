@@ -51,7 +51,20 @@ Paste your token when prompted.
 
 ## Step 3️⃣ & 4️⃣: Define Co-authors' Names and Emails, Create and Merge Pull Requests
 
-Create a script file (e.g., `create_prs.sh`) in the your local repository(if you don't have one, clone one or create new one then clone it) and define your co-authors' names and emails at the top of the script.
+Create a script file (e.g., `create_prs.sh`) in the your local repository(if you don't have one, clone one or create new one then clone it.) and
+And make sure there are `.envexample` file in the repository and dev and main branch.
+Also you are on the dev branch.
+
+If not you can run this command to create them.
+
+```bash
+touch .envexample
+git checkout -b dev
+git push -u origin dev
+```
+
+Then prepare your bash script file.
+Define your co-authors' names and emails at the top of the script.
 
 # (❗❗❗ Make sure this repository is public or you have to invite the co-authors to the repository before running the script.)
 
